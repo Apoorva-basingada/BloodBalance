@@ -193,18 +193,6 @@ Then open `http://localhost:8501` in your browser.
 
 ---
 
-## AI Assistance Disclosure
-
-This project was developed with AI assistance (Google Deepmind Antigravity). The AI:
-- Inspected and profiled the provided datasets
-- Generated the data cleaning pipeline, analytics module, chart functions, and dashboard
-- Wrote the unit tests and Colab notebooks
-
-All findings and KPIs are calculated from the actual dataset — no values were hardcoded or fabricated.
-The developer verified outputs and is responsible for the final project.
-
----
-
 ## Technologies Used
 
 - **Python 3.9+**
