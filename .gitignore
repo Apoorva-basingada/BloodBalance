@@ -1,0 +1,53 @@
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python packaging and build files
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit configuration and secrets
+.streamlit/
+!.streamlit/config.toml
+.streamlit/secrets.toml
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter files
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Project data
+data/cleaned/
